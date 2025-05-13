@@ -12,7 +12,7 @@ public class RegisterTests extends RegisterPage {
     public void RegisterSuccessful(){
         homePage.getSignInButton().click();
         loginPage.clickRegisterButton();
-        registerPage.fillUserName("osmancan"+randomNumber(10000))
+        registerPage.fillUserName("testabc"+randomNumber(10000))
                 .fillPassword("123654")
                 .fillRepeatedPassword("123654")
                 .fillFirstName("osmancan")

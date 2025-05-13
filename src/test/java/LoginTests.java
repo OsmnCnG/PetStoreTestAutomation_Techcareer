@@ -16,7 +16,7 @@ public class LoginTests extends LoginPage {
         //WebElement signOutLink = driver.findElement(By.linkText("Sign Out"));
         //Assert.assertEquals(signOutLink.getText(), "Sign Out");
         //signOutLink.click();
-
+        wait(2000);
         assertEqualsText(homePage.getSignOutButton().getText(), "Sign Out");
         homePage.clickSignOutButton();
     }
