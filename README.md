@@ -1,6 +1,6 @@
 # 🐾 PetStore Web Test Automation Project
 
-Bu proje, **PetStore web uygulaması** üzerinde gerçekleştirilen uçtan uca test otomasyonlarını içermektedir. Proje kapsamında kullanıcı kayıt, giriş, kategoriler, ürün detayları, sepete ekleme gibi tüm temel kullanıcı etkileşimleri otomatik test senaryoları olarak uygulanmıştır.
+Bu proje, [PetStore web uygulaması](https://petstore.octoperf.com/actions/Catalog.action) üzerinde gerçekleştirilen uçtan uca test otomasyonlarını içermektedir. Proje kapsamında kullanıcı kayıt, giriş, kategoriler, ürün detayları, sepete ekleme gibi tüm temel kullanıcı etkileşimleri otomatik test senaryoları olarak uygulanmıştır.
 
 ✅ Test çalıştırmaları Jenkins üzerinden tetiklenmekte, sonuçlar Allure Report ile detaylı şekilde raporlanmaktadır.
 
