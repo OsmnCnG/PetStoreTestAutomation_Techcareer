@@ -41,7 +41,8 @@ Test senaryoları aşağıdaki web fonksiyonlarını kapsamaktadır:
 
 ---
 
-## 📊 Allure Raporu
+## 📊 Çalışmama ait görseller
 
 <img src="https://i.imgur.com/MBiyvhk.png" width="400" height="300" />
+<img src="https://i.imgur.com/OWqG7x5.png" width="400" height="300" />
 
